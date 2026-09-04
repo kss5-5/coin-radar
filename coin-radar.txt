@@ -1,33 +1,33 @@
-UPDATED_AT=2026-09-05 01:50:08 KST
+UPDATED_AT=2026-09-05 01:55:09 KST
 
 === BTC ===
 
 ========================================================================
 COIN-RADAR | BTCUSDT
-2026-09-05 01:50:03
+2026-09-05 01:55:03
 ========================================================================
-Price         : $79750.000000
-Mark Price    : $79752.000000
-Funding       : 0.00398%
-Open Interest : 108,362.98 BTC
-OI 5m Change  : +0.011%
+Price         : $79692.100000
+Mark Price    : $79703.700000
+Funding       : 0.00387%
+Open Interest : 108,328.42 BTC
+OI 5m Change  : -0.073%
 
 5m VOLUME FLOW
 ------------------------------------------------------------------------
 Futures quote volume : $34,157,816
-Spot quote volume    : $6,287,672
-Futures / Spot ratio : 5.43x
+Spot quote volume    : $10,243,708
+Futures / Spot ratio : 3.33x
 
 FLOW SIGNAL
 ------------------------------------------------------------------------
-NEW SHORT PRESSURE POSSIBLE
+LONG LIQUIDATION / POSITION FLUSH
 
 MULTI-TIMEFRAME
 ------------------------------------------------------------------------
- 1m | NEUTRAL | Chg -0.024% | Close 79751.900000 | Vol x0.22
-    Range20: 79500.000000 ~ 79834.400000 | SMA5 79759.860000 | SMA20 79706.015000
- 5m | BULLISH | Chg -0.069% | Close 79751.900000 | Vol x0.66
-    Range20: 79050.000000 ~ 79834.400000 | SMA5 79687.900000 | SMA20 79449.770000
+ 1m | NEUTRAL | Chg -0.038% | Close 79719.900000 | Vol x0.83
+    Range20: 79613.600000 ~ 79838.100000 | SMA5 79755.560000 | SMA20 79740.560000
+ 5m | NEUTRAL | Chg -0.060% | Close 79703.700000 | Vol x0.86
+    Range20: 79126.800000 ~ 79838.100000 | SMA5 79727.040000 | SMA20 79476.705000
 15m | NEUTRAL | Chg +0.376% | Close 79806.700000 | Vol x0.72
     Range20: 78618.100000 ~ 81324.200000 | SMA5 79518.520000 | SMA20 79634.990000
  1h | BEARISH | Chg +0.648% | Close 79384.800000 | Vol x0.88
@@ -41,19 +41,19 @@ MULTI-TIMEFRAME
 
 ========================================================================
 COIN-RADAR | TRUMPUSDT
-2026-09-05 01:50:06
+2026-09-05 01:55:07
 ========================================================================
-Price         : $2.251000
-Mark Price    : $2.252000
-Funding       : -0.01637%
-Open Interest : 28,042,271.92 TRUMP
-OI 5m Change  : -0.051%
+Price         : $2.249000
+Mark Price    : $2.250113
+Funding       : -0.01661%
+Open Interest : 28,035,658.84 TRUMP
+OI 5m Change  : -0.017%
 
 5m VOLUME FLOW
 ------------------------------------------------------------------------
-Futures quote volume : $547,035
-Spot quote volume    : $199,582
-Futures / Spot ratio : 2.74x
+Futures quote volume : $459,540
+Spot quote volume    : $54,104
+Futures / Spot ratio : 8.49x
 
 FLOW SIGNAL
 ------------------------------------------------------------------------
@@ -61,10 +61,10 @@ LONG LIQUIDATION / POSITION FLUSH
 
 MULTI-TIMEFRAME
 ------------------------------------------------------------------------
- 1m | NEUTRAL | Chg +0.000% | Close 2.251000 | Vol x0.59
-    Range20: 2.244000 ~ 2.263000 | SMA5 2.249600 | SMA20 2.251700
- 5m | NEUTRAL | Chg -0.044% | Close 2.251000 | Vol x0.90
-    Range20: 2.239000 ~ 2.263000 | SMA5 2.251000 | SMA20 2.250150
+ 1m | NEUTRAL | Chg -0.133% | Close 2.249000 | Vol x1.22
+    Range20: 2.244000 ~ 2.261000 | SMA5 2.251800 | SMA20 2.251800
+ 5m | NEUTRAL | Chg -0.089% | Close 2.249000 | Vol x0.75
+    Range20: 2.239000 ~ 2.263000 | SMA5 2.251800 | SMA20 2.249900
 15m | NEUTRAL | Chg +0.312% | Close 2.252000 | Vol x0.36
     Range20: 1.984000 ~ 2.399000 | SMA5 2.248600 | SMA20 2.269150
  1h | BEARISH | Chg +0.268% | Close 2.246000 | Vol x0.60
