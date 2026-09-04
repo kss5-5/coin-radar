@@ -1,22 +1,22 @@
-UPDATED_AT=2026-09-05 01:55:09 KST
+UPDATED_AT=2026-09-05 02:00:10 KST
 
 === BTC ===
 
 ========================================================================
 COIN-RADAR | BTCUSDT
-2026-09-05 01:55:03
+2026-09-05 02:00:04
 ========================================================================
-Price         : $79692.100000
-Mark Price    : $79703.700000
-Funding       : 0.00387%
-Open Interest : 108,328.42 BTC
-OI 5m Change  : -0.073%
+Price         : $79709.300000
+Mark Price    : $79706.736355
+Funding       : 0.00375%
+Open Interest : 108,366.28 BTC
+OI 5m Change  : -0.035%
 
 5m VOLUME FLOW
 ------------------------------------------------------------------------
-Futures quote volume : $34,157,816
-Spot quote volume    : $10,243,708
-Futures / Spot ratio : 3.33x
+Futures quote volume : $44,375,628
+Spot quote volume    : $7,010,284
+Futures / Spot ratio : 6.33x
 
 FLOW SIGNAL
 ------------------------------------------------------------------------
@@ -24,14 +24,14 @@ LONG LIQUIDATION / POSITION FLUSH
 
 MULTI-TIMEFRAME
 ------------------------------------------------------------------------
- 1m | NEUTRAL | Chg -0.038% | Close 79719.900000 | Vol x0.83
-    Range20: 79613.600000 ~ 79838.100000 | SMA5 79755.560000 | SMA20 79740.560000
+ 1m | BEARISH | Chg -0.010% | Close 79709.200000 | Vol x0.30
+    Range20: 79661.200000 ~ 79838.100000 | SMA5 79734.520000 | SMA20 79751.165000
  5m | NEUTRAL | Chg -0.060% | Close 79703.700000 | Vol x0.86
     Range20: 79126.800000 ~ 79838.100000 | SMA5 79727.040000 | SMA20 79476.705000
 15m | NEUTRAL | Chg +0.376% | Close 79806.700000 | Vol x0.72
     Range20: 78618.100000 ~ 81324.200000 | SMA5 79518.520000 | SMA20 79634.990000
- 1h | BEARISH | Chg +0.648% | Close 79384.800000 | Vol x0.88
-    Range20: 78618.100000 ~ 82282.800000 | SMA5 79642.700000 | SMA20 80683.370000
+ 1h | NEUTRAL | Chg +0.409% | Close 79709.200000 | Vol x0.67
+    Range20: 78618.100000 ~ 82282.800000 | SMA5 79346.940000 | SMA20 80597.820000
  4h | NEUTRAL | Chg -2.221% | Close 79384.800000 | Vol x2.82
     Range20: 76151.900000 ~ 82282.800000 | SMA5 80647.900000 | SMA20 78686.025000
  1d | BULLISH | Chg +5.085% | Close 81230.700000 | Vol x1.40
@@ -41,19 +41,19 @@ MULTI-TIMEFRAME
 
 ========================================================================
 COIN-RADAR | TRUMPUSDT
-2026-09-05 01:55:07
+2026-09-05 02:00:08
 ========================================================================
-Price         : $2.249000
-Mark Price    : $2.250113
-Funding       : -0.01661%
-Open Interest : 28,035,658.84 TRUMP
-OI 5m Change  : -0.017%
+Price         : $2.242000
+Mark Price    : $2.243000
+Funding       : -0.01732%
+Open Interest : 28,056,224.26 TRUMP
+OI 5m Change  : -0.023%
 
 5m VOLUME FLOW
 ------------------------------------------------------------------------
-Futures quote volume : $459,540
-Spot quote volume    : $54,104
-Futures / Spot ratio : 8.49x
+Futures quote volume : $339,523
+Spot quote volume    : $82,739
+Futures / Spot ratio : 4.10x
 
 FLOW SIGNAL
 ------------------------------------------------------------------------
@@ -61,14 +61,14 @@ LONG LIQUIDATION / POSITION FLUSH
 
 MULTI-TIMEFRAME
 ------------------------------------------------------------------------
- 1m | NEUTRAL | Chg -0.133% | Close 2.249000 | Vol x1.22
-    Range20: 2.244000 ~ 2.261000 | SMA5 2.251800 | SMA20 2.251800
- 5m | NEUTRAL | Chg -0.089% | Close 2.249000 | Vol x0.75
-    Range20: 2.239000 ~ 2.263000 | SMA5 2.251800 | SMA20 2.249900
-15m | NEUTRAL | Chg +0.312% | Close 2.252000 | Vol x0.36
-    Range20: 1.984000 ~ 2.399000 | SMA5 2.248600 | SMA20 2.269150
- 1h | BEARISH | Chg +0.268% | Close 2.246000 | Vol x0.60
-    Range20: 1.984000 ~ 2.448000 | SMA5 2.269400 | SMA20 2.349200
+ 1m | BEARISH | Chg -0.089% | Close 2.242000 | Vol x0.47
+    Range20: 2.241000 ~ 2.256000 | SMA5 2.245000 | SMA20 2.249750
+ 5m | BEARISH | Chg -0.311% | Close 2.242000 | Vol x0.56
+    Range20: 2.239000 ~ 2.263000 | SMA5 2.249000 | SMA20 2.249100
+15m | BEARISH | Chg -0.444% | Close 2.242000 | Vol x0.26
+    Range20: 1.984000 ~ 2.399000 | SMA5 2.246800 | SMA20 2.262500
+ 1h | BEARISH | Chg -0.178% | Close 2.242000 | Vol x0.62
+    Range20: 1.984000 ~ 2.448000 | SMA5 2.242800 | SMA20 2.341850
  4h | NEUTRAL | Chg -5.432% | Close 2.246000 | Vol x2.32
     Range20: 1.984000 ~ 2.514000 | SMA5 2.348200 | SMA20 2.301250
  1d | BULLISH | Chg +7.911% | Close 2.387000 | Vol x0.75
